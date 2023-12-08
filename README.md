@@ -4,5 +4,5 @@ en este repositorio estan los archivos base de mi pagina web personal. mi pagina
 -¿Quien soy?
 -¿De donde vengo?
 -¿Por que estudio TICs?
--mis imagenes
+-mis intereses
 -mis hobis
